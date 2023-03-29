@@ -1,9 +1,9 @@
+*.txt
 # Build and Release Folders
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-*.txt
 # Other files and folders
 .settings/
 
